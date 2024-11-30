@@ -1,3 +1,11 @@
+Name: AIREDDY RAKESH
+Company: CODETECH IT SOLUTIONS
+ID: CT08DS9661
+Domain: JAVA DEVELOPER
+Duration: Oct-Nov,2024
+Mentor: MUZAMMIL
+-------------------------------------
+
 Java Developer Internship at Codtech IT Solutions 👨‍💻
 ------------------------------------------------------
 Task-1: Simple Calculator
